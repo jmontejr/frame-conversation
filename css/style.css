@@ -1,0 +1,33 @@
+* {
+    box-sizing: border-box;
+}
+form {
+    padding: 10px;
+}
+textarea {
+    display: block;
+    width: 100%;
+    border: 1px solid #333;
+    border-radius: 5px;
+    outline: 0;
+    font-size: 16px;
+    padding: 10px;
+}
+button {
+    display: block;
+    width: 100%;
+    margin-top: 5px;
+    border: 1px solid #333;
+    border-radius: 5px;
+    color: #fff;
+    text-transform: uppercase;
+    outline: 0;
+    padding: 10px 5px;
+    cursor: pointer;
+}
+#frame1-button {
+    background: rgb(102, 11, 102);
+}
+#frame2-button {
+    background: rgb(53, 41, 161);
+}
