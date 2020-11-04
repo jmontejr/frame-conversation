@@ -4,15 +4,15 @@ Bacharelado em Sistemas de Informação - UFRPE
 ## Atividade 1 VA (JavaScript e frames - Comunicação entre frames)
 
 O aluno deve:  
-a) escrever uma paginas HTML com dois frames  
-b) cada fram edeve ter um botao e uma textarea  
-c) todos código javascript deve estar em execução no  frame 1
+a) escrever uma páginas HTML com dois frames  
+b) cada frame deve ter um botão e um textarea  
+c) todo o código javascript deve estar em execução no  frame 1
 
 Atividade:  
 I) escrever um texto no textarea do frame 1 e ao clicar no botao do frame 1 copiar o texto do textarea do frame 1 para o frame 2  
-II) escrever um texto no textarea do frame 2 e ao clicar no botao do frame 2 copiar o texto do textarea do frame II para o frame 1 (observar o comentário da letra c)
+II) escrever um texto no textarea do frame 2 e ao clicar no botao do frame 2 copiar o texto do textarea do frame 2 para o frame 1 (observar o comentário da letra c)
 
-O aluno deve postar o código aqui e no dia da 1 VA te deverá apresentar este código explicando o mesmo.
+O aluno deve postar o código no Google Classroom e no dia da 1 VA deverá apresentar este código explicando o mesmo.
 
 ## Breve explicação sobre o conteúdo (arquivos)
 
